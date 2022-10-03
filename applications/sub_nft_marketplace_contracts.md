@@ -206,6 +206,15 @@ sub nft marketeplace  ink! contract implement finished.
 
 ![image](https://github.com/rust-0x0/sub-art-nft-marketplace-docs/blob/dev/images/4.png)![image](https://github.com/rust-0x0/sub-art-nft-marketplace-docs/blob/dev/images/5.png)![image](https://github.com/rust-0x0/sub-art-nft-marketplace-docs/blob/dev/images/6.png)
 
+![image](https://github.com/rust-0x0/sub-art-nft-marketplace-docs/blob/dev/images/7.png)![image](https://github.com/rust-0x0/sub-art-nft-marketplace-docs/blob/dev/images/8.png)![image](https://github.com/rust-0x0/sub-art-nft-marketplace-docs/blob/dev/images/9.png)
+
+![image](https://github.com/rust-0x0/sub-art-nft-marketplace-docs/blob/dev/images/10.png)![image](https://github.com/rust-0x0/sub-art-nft-marketplace-docs/blob/dev/images/11.png)![image](https://github.com/rust-0x0/sub-art-nft-marketplace-docs/blob/dev/images/12.png)
+
+![image](https://github.com/rust-0x0/sub-art-nft-marketplace-docs/blob/dev/images/13.png)![image](https://github.com/rust-0x0/sub-art-nft-marketplace-docs/blob/dev/images/14.png)![image](https://github.com/rust-0x0/sub-art-nft-marketplace-docs/blob/dev/images/15.png)
+
+![image](https://github.com/rust-0x0/sub-art-nft-marketplace-docs/blob/dev/images/16.png)
+
+
 ## Development Roadmap :nut_and_bolt:
 
 ### Overview
