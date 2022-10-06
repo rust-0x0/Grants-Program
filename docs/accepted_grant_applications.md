@@ -29,6 +29,7 @@
   - [:surfing_woman: Wave 13 - First Quarter 2022](#surfing_woman-wave-13---first-quarter-2022)
   - [:surfing_woman: Wave 14 - Second Quarter 2022](#surfing_woman-wave-14---second-quarter-2022)
   - [:surfing_woman: Wave 15 - Third Quarter 2022](#surfing_woman-wave-15---third-quarter-2022)
+  - [:surfing_woman: Wave 16 - Fourth Quarter 2022](#surfing_woman-wave-16---fourth-quarter-2022)
 
 # 2019
 
@@ -248,7 +249,7 @@
 | [LimeChain](https://github.com/LimeChain) | Subsembly: Framework for building AssemblyScript Runtimes | [GitHub](https://github.com/LimeChain) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Wificoin](https://wificoin.com/) | PESA: On-ramp/off-ramp to crypto/local currencies for Polkadot | | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [WalletConnect](https://walletconnect.org/) | Open protocol for connecting Wallets to Dapps | [GitHub](https://github.com/walletconnect) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
-| [Citadel.one](https://citadel.one/) | Non-custodial Proof-of-Stake platform | | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Citadel.one](https://citadel.one/) | Non-custodial Proof-of-Stake platform | | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [Geometry Labs](https://geometrylabs.io/) | Load Balanced Endpoints Phase 2 | [GitHub](https://github.com/geometry-labs) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [MAP labs](https://www.maplabs.io/) | Map Bridge: Connect Polkadot and other PoW chains | [GitHub](https://github.com/Philasande-map/mapbridge) | <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [RareLink](http://rarelink.network/) | Dynamic non-fungible token (NFT) Protocol | [GitHub](https://github.com/RareLink) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
@@ -406,7 +407,7 @@
 | :--- | :------ | :--- | :--------: | :------------: | :-------: |
 | Matthew Darnell | cScale | [GitHub](https://github.com/MatthewDarnell/cScale) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Web3go](https://web3go.xyz/) | Web3go | [GitHub](https://github.com/web3go-xyz) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
-| [Prosopo Limited](https://prosopo.io) | Prosopo: Human Verification Marketplace | [GitHub](https://github.com/prosopo-io) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Prosopo Limited](https://prosopo.io) | Prosopo: Human Verification Marketplace | [GitHub](https://github.com/prosopo-io) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [Litentry](www.litentry.com) | Polka SignIn | [GitHub](https://github.com/litentry) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [gmajor](https://github.com/gmajor-encrypt) | PHP RPC Lib | [GitHub](https://github.com/gmajor-encrypt/) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [logion](https://logion.network/) | Logion wallet | [GitHub](https://github.com/logion-network) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
@@ -415,7 +416,7 @@
 | [@agryaznov](https://github.com/agryaznov) | Candle Auctions on Ink! | [GitHub](https://github.com/agryaznov/candle-auction-ink) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [Iridium Industries](http://www.iridium.industries) | Iris: Decentralized storage network for substrate-based chains | [GitHub](https://github.com/iridium-labs/iris) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [DICO Team](https://dico.io/) | DICO: Decentralized and governable ICO platform | [GitHub](https://github.com/DICO-TEAM/dico-chain) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
-| [DodoRare, Inc.](https://dodorare.com) | Crossbow - Cross-Platform Rust Toolkit for Games | [GitHub](https://github.com/dodorare) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [DodoRare, Inc.](https://dodorare.com) | Crossbow - Cross-Platform Rust Toolkit for Games | [GitHub](https://github.com/dodorare) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [Rainbowcity Foundation](http://www.rainbowcity.io/) | RainbowDAO Protocol ink! Phase 1 | [GitHub](https://github.com/RainbowcityFoundation/RainbowcityDAO) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [Web Registry DAO](www.wika.network) | Wika Network | [GitHub](https://github.com/randombishop/wika_node) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Helikon Labs](http://www.helikon.tech/) | SubVT Telegram Bot for Kusama and Polkadot | [GitHub](https://github.com/helikon-labs/polkadot-kusama-1kv-telegram-bot) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
@@ -432,8 +433,8 @@
 
 | Team | Project | Link | Terminated | First Delivery | Completed
 | :--- | :------ | :--- | :--------: | :------------: | :-------: |
-| [Chainify](https://github.com/chainify) | Nolik | [GitHub](https://github.com/chainify) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
-| [Pennsylvania State University](https://www.psu.edu/) | Avoiding Rust Deadlocks via Lifetime Visualization | [GitHub](https://songlh.github.io/) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Chainify](https://github.com/chainify) | Nolik | [GitHub](https://github.com/chainify) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
+| [Pennsylvania State University](https://www.psu.edu/) | Avoiding Rust Deadlocks via Lifetime Visualization | [GitHub](https://songlh.github.io/) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [Anagolay](https://anagolay.network/) | Project Idiyanale | [GitHub](https://github.com/anagolay) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [Fennel Labs](https://fennellabs.com/) | Fennel Protocol | [GitHub](https://github.com/fennelLabs) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [Valletech AB](https://valletech.eu/) | Polkawatch | [GitHub](https://gitlab.com/polkawatch) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
@@ -441,7 +442,7 @@
 | [Virto Network](https://virto.network/) | LIP payments pallet | [GitHub](https://github.com/virto-network/) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [Kami Ekbatanifard](https://github.com/Nick-1979/) | Polkadot.js Plus Extension | [GitHub](https://github.com/Nick-1979/polkadot-Js-Plus-extension/wiki) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [Dora Factory](https://dorafactory.org/) | Multisig UI | [GitHub](https://github.com/DoraFactory) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
-| [Blackprint](https://github.com/Blackprint) | Integrating Polkadot.js with Blackprint | [GitHub](https://github.com/Blackprint) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Blackprint](https://github.com/Blackprint) | Integrating Polkadot.js with Blackprint | [GitHub](https://github.com/Blackprint) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [OpenSquare Network](https://www.opensquare.network/) | OpenSquare Paid QA protocol | [GitHub](https://github.com/opensquare-network/) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [@Scale Technologies](https://atscale.xyz) | Libra - Decentralized Payment Network | [GitHub](https://github.com/atscaletech/) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Interstellar](https://www.interstellar.gg/) | Interstellar - Wallet Phase 1 | [GitHub](https://github.com/Interstellar-Network) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
@@ -456,7 +457,7 @@
 | [CESS LAB](https://www.cess.cloud/) | Data Store Pallet | [GitHub](https://github.com/CESSProject/cess) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [ChainSafe](https://chainsafe.io/) | Substrate Core Polywrapper | [GitHub](https://github.com/polywrap) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Bela Supernova](https://bsn.si/en/home/) | On-chain cash exchange (OCEX) |  | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
-| [Second State](https://www.secondstate.io/) | WasmEdge for Substrate | [GitHub](https://github.com/wasmedge) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Second State](https://www.secondstate.io/) | WasmEdge for Substrate | [GitHub](https://github.com/wasmedge) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Wow Labz](https://www.wowlabz.com/) | Dot Marketplace Phase 2 | [GitHub](https://github.com/WowLabz) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [Stardust Labs Inc.](https://stardust.finance/) | Uncollateralized Stablecoin Research and Design | [GitHub](https://github.com/adit313/) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [Hashed Systems](https://hashed.io) | Native Bitcoin Vaults (NBV) | [GitHub](https://github.com/hashed-io) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
@@ -483,7 +484,7 @@
 | [Verida](https://www.verida.io/) | Single Sign-On for Apps | [GitHub](https://github.com/verida) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Kami Ekbatanifard](https://github.com/Nick-1979/) | Polkadot js plus / Nomination pools | [GitHub](https://github.com/Nick-1979/polkadot-Js-Plus-extension/wiki) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [Afloat Inc](https://stayafloat.io/#/) | Tax Infrastructure Polkadot Integration | N/A | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
-| [gmajor](https://github.com/gmajor-encrypt) | SCALE Codec Comparator | [GitHub](https://github.com/gmajor-encrypt) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [gmajor](https://github.com/gmajor-encrypt) | SCALE Codec Comparator | [GitHub](https://github.com/gmajor-encrypt) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Rusty Crewmates](http://rustycrewmates.com/) | Substrate Tutorials | [GitHub](https://github.com/rusty-crewmates/substrate-tutorials) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Sequester](https://github.com/SequesterChain) | A Common-Good Carbon Sink on Polkadot | [GitHub](https://github.com/SequesterChain/pallets) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [Keysafe Network](https://github.com/keysafe-protocol) | A decentralized protocol for private key custody and crypto asset management | [GitHub](https://github.com/keysafe-protocol) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
@@ -498,7 +499,7 @@
 | [NeoPower](https://www.neopower.digital/) | Roloi: Stream money from one wallet to another | [GitHub](https://github.com/RoloiMoney) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [Tribal Protocol Labs](https://www.tribal.fyi/) | Tribal Protocol Smart Contract Development | [GitHub](https://github.com/tribal-protocol) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Yahuang Wu](https://github.com/wuyahuang) | Dual-Key Stealth Address Protocol | [GitHub](https://github.com/wuyahuang) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
-| [UNIVERSALDOT FOUNDATION](https://universaldot.foundation) | Universaldot.me Phase 2 | [GitHub](https://github.com/UniversalDot) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [UNIVERSALDOT FOUNDATION](https://universaldot.foundation) | Universaldot.me Phase 2 | [GitHub](https://github.com/UniversalDot) | <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Societal Labs Ltd.](https://www.sctl.xyz/) | Societal - MVP - Phase 1 | [GitHub](https://github.com/sctllabs) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Faceless Protocol](https://github.com/HeisenbergLin22) | Faceless Protocol | [GitHub](https://github.com/HeisenbergLin22) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [SuperColony](https://github.com/Supercolony-net) | Typechain | [GitHub](https://github.com/Supercolony-net/typechain-polkadot) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
@@ -510,9 +511,8 @@
 
 | Team | Project | Link | Terminated | First Delivery | Completed
 | :--- | :------ | :--- | :--------: | :------------: | :-------: |
-| [4ire](https://4irelabs.com/) | Slushie | [GitHub](https://github.com/4IRE-Labs) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [QRUCIAL OÜ](https://qrucial.io/) | QRUCIAL DAO | [GitHub](https://github.com/Qrucial/QRUCIAL-DAO) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
-| [Polkadot js plus](http://polkadotjs.plus/) | Polkadot js plus / Social Recovery Wallet | [GitHub](https://github.com/Nick-1979/polkadot-Js-Plus-extension/wiki) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Polkadot js plus](http://polkadotjs.plus/) | Polkadot js plus / Social Recovery Wallet | [GitHub](https://github.com/Nick-1979/polkadot-Js-Plus-extension/wiki) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Lee](https://github.com/rust-0x0) | Hex Space Social Graph | [GitHub](https://github.com/rust-0x0) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Liberland LLC](https://liberland.org/en/) | Liberland Pallets | [GitHub](https://github.com/liberland/liberland_substrate) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Standard Protocol](https://standard.tech/) | Signac - a monorepo plugin for developing multiple Parity ink! smart contracts | [GitHub](https://github.com/digitalnativeinc) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
@@ -524,11 +524,11 @@
 | [Open rollup](https://github.com/openrollup-zk) | Open rollup - MVP - Phase 1 | [GitHub](https://github.com/openrollup-zk) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Veridise](https://veridise.com/) | Vanguard | [GitHub](https://github.com/Veridise/Vanguard) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Karolis Ramanauskas](https://krl.is/) | Generic Sybil-Resistant Faucet | [GitHub](https://github.com/karooolis) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
-| [LimeChain](https://limechain.tech/) | Research feasibility for a Go Runtime | [GitHub](https://github.com/LimeChain) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [LimeChain](https://limechain.tech/) | Research feasibility for a Go Runtime | [GitHub](https://github.com/LimeChain) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[x] </li></ul> |
 | [Jim Yam](https://github.com/JimYam) | daos | [GitHub](https://github.com/daos-org/daos.git) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Green Lemon](https://github.com/GreenLemonProtocol) | Green Lemon Protocol | [GitHub](https://github.com/GreenLemonProtocol) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Stardust Labs Inc.](https://stardust.finance/) | Integrating ISO-8583 | [GitHub](https://github.com/adit313/) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
-| [TwinP](https://www.linkedin.com/in/elioprifti/) | Escrow Pallet | [GitHub](https://github.com/herou) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [TwinP](https://www.linkedin.com/in/elioprifti/) | Escrow Pallet | [GitHub](https://github.com/herou) | <ul><li>[ ] </li></ul> |  <ul><li>[x] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Meta Defender Team](https://github.com/Meta-Defender/) | Meta Defender | [GitHub](https://github.com/Meta-Defender/) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [ParaSpell](https://github.com/dudo50/ParaSpell) | ParaSpell | [GitHub](https://github.com/dudo50/ParaSpell) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Primis Labs](https://github.com/Primis-Labs) | Primis | [GitHub](https://github.com/Primis-Labs/client) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
@@ -539,7 +539,19 @@
 | [Popular Coding](https://www.popularcoding.com/) | Ventur | [GitHub](https://github.com/popular_coding) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Asylum](https://asylum.space/) | Asylum follow-up 1 | [GitHub](https://gitlab.com/asylum-space/) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 | [Cyril Carlier](https://github.com/CrommVardek) | Maki| [GitHub](https://github.com/CrommVardek) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [TopMonks](https://www.topmonks.com/) | Calamar| [GitHub](https://github.com/topmonks/calamar) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Bela Supernova](https://bsn.si/) | Rubeus Keeper| [GitHub](https://github.com/bsn-si) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Web3 Labs Ltd](https://www.web3labs.com/epirus-explorer) | Epirus Substrate Explorer - Phase 2 | [GitHub](https://github.com/web3labs) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Uke](https://github.com/Uke-Messaging) | Uke Protocol PoC & App (revised) | [GitHub](https://github.com/Uke-Messaging) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [SuperColony](https://github.com/Supercolony-net) | Typechain Phase 2 | [GitHub](https://github.com/Supercolony-net/typechain-polkadot) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [QSTN](https://qstn.us/) | QSTN | [GitHub](https://github.com/qstnus) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [CESS LAB](https://www.cess.cloud/) | Substats (The framework of lightweight block explorer) | [GitHub](https://github.com/CESSProject) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Polket](https://toearn.fun) | ToEarnFun | [GitHub](https://github.com/polketio/polket-node) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| ALPHA LABS | Binary merkle tree | [GitHub](https://github.com/frisitano) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [Standard Protocol](https://standard.tech/) | New Order - a full onchain orderbook dex with indexers | [GitHub](https://github.com/standardweb3) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
+| [hack-ink](https://github.com/hack-ink) | Subalfred | [GitHub](https://github.com/hack-ink/subalfred) | <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |  <ul><li>[ ] </li></ul> |
 
+## :surfing_woman: Wave 16 - Fourth Quarter 2022
 
-
-
+| Team | Project | Link | Terminated | First Delivery | Completed
+| :--- | :------ | :--- | :--------: | :------------: | :-------: |
