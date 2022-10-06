@@ -1,6 +1,6 @@
 # W3F Grant Proposal
 
-- **Project Name:** Sub NFT marketplace  ink! contracts on Substrate 
+- **Project Name:** Sub Artion NFT marketplace ink! contracts on Substrate 
 - **Team Name:** Lee
 - **Payment Address:** 0x352a7f69df71bda6c51ee7fa938dd76ff2375087(USDT)
 - **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 1
@@ -9,7 +9,7 @@
 
 ### Overview
 
-Sub NFT marketplace is heavily inspired by Artion implementation [artion](https://github.com/Fantom-foundation/Artion-Contracts.git)
+Sub Artion NFT marketplace is heavily inspired by Artion implementation [artion](https://github.com/Fantom-foundation/Artion-Contracts.git)
 The NFT marketplace is a market where people can sell NFTs — [PSP34](https://github.com/w3f/PSPs/blob/master/PSPs/psp-34.md/[ERC 721](https://eips.ethereum.org/EIPS/eip-721) or [PSP37](https://github.com/w3f/PSPs/blob/master/PSPs/psp-37.md)/[ERC 1155](https://eips.ethereum.org/EIPS/eip-1155) tokens — at a fixed price ( what we'll refer to as a "Direct listing"), or auction them (what we'll refer to as an "Auction listing").
 #### Buying, Selling, and Auctions
 It offers different options for buying and selling NFTs.
